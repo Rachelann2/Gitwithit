@@ -1,0 +1,19 @@
+#para1 {color:pink; font-weight:Bold;}
+#para2 {font-display:italic; Color:Grey;}
+div{
+    background-color:palevioletred; 
+    width: 600px;
+    height: 200px;
+    text-align: center;
+}
+#main-bio {}
+#Contact-info {}
+#bio-image {}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #eFeee 7;
+    Font:Georgia, "Times New Roman",Times,serif;
+    Font-color: #333333;
+}
